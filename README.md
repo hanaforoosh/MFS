@@ -31,3 +31,9 @@ f = [
 s = Controller(physical_machines=p,functions=f)
 s.run()
 ```
+
+# Citation
+To cite MFS please use the following format:
+```
+M. Hanaforoosh, M. Ashtiani and M. A. Azgomi, "MFS: A Serverless FaaS Simulator," 2023 9th International Conference on Web Research (ICWR), Tehran, Iran, Islamic Republic of, 2023, pp. 81-86, doi: 10.1109/ICWR57742.2023.10139045.
+```
